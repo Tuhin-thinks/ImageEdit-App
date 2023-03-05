@@ -1,0 +1,8 @@
+*.py[cod]
+**__pycache__
+.idea
+.mypy_cache
+
+# custom options
+*.zip
+dump
